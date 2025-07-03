@@ -2,7 +2,7 @@ import random
 a=random.randint(1,100)
 i=1
 print("GUESS THE NUMBER BETWEEN 1 TO 100")
-while(i<=7):
+while(i<=5):
     b=int(input("ENTER THE NUMBER :-"))
     if(a==b):
         print("YOU WIN THE NUMBER IS ",a)
