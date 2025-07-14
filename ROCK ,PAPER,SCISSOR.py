@@ -1,5 +1,4 @@
-print("""WELCOME TO ROCK PAPER SCISSOR GAME 
-                🙏🙏🙏🙏🙏""")
+print("🙏 WELCOME TO ROCK PAPER SCISSOR GAME 🙏 ")
 m=0
 d=0
 i=1
